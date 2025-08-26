@@ -1,5 +1,5 @@
 # Frontend Mentor -  QR Code Component Solution🔗
-This is my solution to the [QR code component coding challenge ](https://) on Frontend Mentor.
+This is my solution to the [QR code component coding challenge](https://qr-component-eta-olive.vercel.app/) on Frontend Mentor.
 
 ## Overview ✨
 
@@ -40,7 +40,7 @@ I created a semantic HTML structure with:
 - **Project Workflow:** It was good practice to follow a clean workflow: setting up the HTML structure first, then moving on to basic styling, and finally refining the details to match the design.
 
 ## 🔗 Links
-- **🌐 Live Site URL**: [QR code component coding challenge ](https://)
+- **🌐 Live Site URL**: [QR code component coding challenge](https://qr-component-eta-olive.vercel.app/)
 
 ### **👥 Solved by M Olaya** 
 <a href="https://www.linkedin.com/in/molaya">LinkedIn</a> 
